@@ -23,7 +23,7 @@ serves as the public information page for the project.
 
 ## Contact
 - Discord: canon.kor
-
+- Email: psmileamore@gmail.com
 ---
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED
 WITH MOJANG OR MICROSOFT.
