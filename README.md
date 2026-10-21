@@ -44,6 +44,8 @@
 
 Details: **[Privacy Policy](PRIVACY.md)** and **[Terms of Use](TERMS.md)**.
 
+![Main screen](testmain.png)
+
 ## Contact
 
 - Email: psmileamore@gmail.com
