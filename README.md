@@ -48,7 +48,6 @@ Details: **[Privacy Policy](PRIVACY.md)** and **[Terms of Use](TERMS.md)**.
 
 ## Contact
 
-- Email: psmileamore@gmail.com
 - Discord: canon.kor
 
 Privacy requests (access or deletion of your data) and security reports can be sent to the email above.
